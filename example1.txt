@@ -1,0 +1,8 @@
+The User Defined Graph is
+LR_0-> LR_2[ label = " 1 " ];
+LR_2-> LR_3[ label = "6" ];
+LR_2-> LR_5[ label = " 1 " ];
+LR_3-> LR_6[ label = "6" ];
+LR_5-> LR_6[ label = " 1 " ];
+LR_8-> LR_2[ label = "6" ];
+
